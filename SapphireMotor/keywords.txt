@@ -1,0 +1,4 @@
+SapphireMotor	KEYWORD1
+moveForward	KEYWORD2
+moveBackward	KEYWORD2
+stop	KEYWORD2

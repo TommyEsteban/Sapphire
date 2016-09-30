@@ -1,0 +1,5 @@
+SapphireController	KEYWORD1
+initializeMotion	KEYWORD2
+initializeVision	KEYWORD2
+runAutonomousMode	KEYWORD2
+blinkLed		KEYWORD2

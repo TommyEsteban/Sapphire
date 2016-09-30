@@ -1,0 +1,15 @@
+SapphireVision	KEYWORD1
+distances	KEYWORD2
+initialize	KEYWORD2
+getDistance	KEYWORD2
+getAverageDistance	KEYWORD2
+setFrontalOffset	KEYWORD2
+setToFront	KEYWORD2
+move	KEYWORD2
+moveRight	KEYWORD2
+moveLeft	KEYWORD2
+lookFreeSpace	KEYWORD2
+scan	KEYWORD2
+
+
+
