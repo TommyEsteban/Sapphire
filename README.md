@@ -11,6 +11,14 @@
 ![CS50](https://img.shields.io/badge/Harvard-CS50%20Final%20Project-A51C30?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-GPL%20v2-green?style=for-the-badge)
 
+<br/>
+
+### 🎬 See it in action
+
+[![Watch Sapphire dodge obstacles on YouTube](https://img.youtube.com/vi/YKxyQv65Ve0/maxresdefault.jpg)](https://www.youtube.com/watch?v=YKxyQv65Ve0)
+
+*▶️ Click to watch Sapphire exploring and dodging obstacles*
+
 </div>
 
 ---
